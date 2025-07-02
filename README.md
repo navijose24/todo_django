@@ -17,9 +17,3 @@ Users can:
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone the repo**  
-   ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
